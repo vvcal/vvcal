@@ -2,3 +2,4 @@ streamlit
 st-gsheets-connection
 gspread 
 oauth2client
+google-cloud-bigquery
